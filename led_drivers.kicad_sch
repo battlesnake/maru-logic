@@ -207,7 +207,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 86db8588-ef1b-4bdb-8407-df939ccca729)
   )
-  (text "Ib = 1mA\nIc > 100mA @ Vge > 900mV\nVce(sat) = 100mA @ Ic = 50mA"
+  (text "Ib = 1mA\nIc > 100mA @ Vge > 900mV\nVce(sat) = 100mV @ Ic = 50mA"
     (at 76.2 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f264673b-a3cf-45d4-80a0-d815dd81bd47)
@@ -370,7 +370,7 @@
   (symbol (lib_id "power:VSS") (at 71.12 73.025 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cbe737ca-fef4-41bf-9b65-87f258039d7c)
-    (property "Reference" "#PWR057" (id 0) (at 71.12 69.215 0)
+    (property "Reference" "#PWR059" (id 0) (at 71.12 69.215 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VSS" (id 1) (at 71.12 77.4684 0))
