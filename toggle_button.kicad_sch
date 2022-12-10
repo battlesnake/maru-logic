@@ -199,7 +199,7 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 48c6116a-43aa-4175-87a3-e1fe557a39ae)
-    (property "Sheet name" "LEDs 1" (id 0) (at 116.84 48.8184 0)
+    (property "Sheet name" "Input state LEDs" (id 0) (at 116.84 48.8184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "state_led.kicad_sch" (id 1) (at 116.84 53.9246 0)
