@@ -434,11 +434,11 @@
     ],
     [
       "8d2a6a8d-7c4d-4c31-a601-c5271935ae28",
-      "Toggle Button 1"
+      "Button NOT_A"
     ],
     [
-      "86978d5a-dba7-46a9-9aab-f2e8489a0550",
-      "LED_AND_X"
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
     ],
     [
       "01df7ace-d3a9-4365-82e7-19ee7b013dca",
@@ -446,7 +446,7 @@
     ],
     [
       "c5cad125-0872-44d9-8fd3-f34da67d6d74",
-      "Toggle Button 2"
+      "Button AND_A"
     ],
     [
       "01df7ace-d3a9-4365-82e7-19ee7b013dca",
@@ -454,7 +454,7 @@
     ],
     [
       "6a651a58-049d-4f53-802d-a95fad76fb32",
-      "Toggle Button 3"
+      "Button AND_B"
     ],
     [
       "01df7ace-d3a9-4365-82e7-19ee7b013dca",
@@ -462,7 +462,7 @@
     ],
     [
       "a2868d09-4421-4ea4-8b60-2ab9ee7044bc",
-      "Toggle Button 4"
+      "Button OR_A"
     ],
     [
       "01df7ace-d3a9-4365-82e7-19ee7b013dca",
@@ -470,7 +470,7 @@
     ],
     [
       "45d4d991-e04a-4087-97da-d9234b9db35e",
-      "Toggle Button 5"
+      "Button OR_B"
     ],
     [
       "01df7ace-d3a9-4365-82e7-19ee7b013dca",
@@ -478,7 +478,7 @@
     ],
     [
       "f0458f63-2ad5-4dd3-b406-8d71743ce2a1",
-      "Toggle Button 6"
+      "Button XOR_A"
     ],
     [
       "01df7ace-d3a9-4365-82e7-19ee7b013dca",
@@ -486,151 +486,355 @@
     ],
     [
       "4c105767-be86-4346-bd91-a16bf9178e3f",
-      "Toggle Button 7"
+      "Button XOR_B"
     ],
     [
-      "f12883c4-6c8e-4649-acd5-9a5d5e4d3ad3",
-      "LED_OR_X"
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
     ],
     [
-      "8baaa935-d79b-426c-9814-5edc7c8f9844",
-      "LED_XOR_X"
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
     ],
     [
-      "0e27befc-3cfc-4857-bb88-a4a19c5b6576",
-      "LED_NOT_X"
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
     ],
     [
-      "f23d72f7-7f3e-49af-b2e8-9157bf1bf910",
-      "LED_ALL_X"
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
     ],
     [
-      "48c6116a-43aa-4175-87a3-e1fe557a39ae",
-      "Input state LEDs"
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
     ],
     [
-      "4dc35c01-e759-463e-b05c-956f0ee7d5c4",
-      "Output LEDs"
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
     ],
     [
-      "48c6116a-43aa-4175-87a3-e1fe557a39ae",
-      "Input state LEDs"
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "cc4a6f02-31d0-4305-abf8-946d211c9cca",
+      "Chain NOT_A"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
     ],
     [
-      "48c6116a-43aa-4175-87a3-e1fe557a39ae",
-      "Input state LEDs"
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
     ],
     [
-      "48c6116a-43aa-4175-87a3-e1fe557a39ae",
-      "Input state LEDs"
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "deb80f0c-ac06-462c-a0fc-48452667be47",
+      "Chain NOT_X"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "f22c4208-a133-4bd0-84c1-c17777a7a5df",
+      "Chain OR_X"
     ],
     [
-      "48c6116a-43aa-4175-87a3-e1fe557a39ae",
-      "Input state LEDs"
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "646d059c-348a-43cf-af8b-e4d6e0eec2a8",
+      "Chain AND_X"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "45363677-1ab1-48e2-9fa7-88c5be4f46b9",
+      "LED+delay 3"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "96b2e339-ad52-4685-9ab1-cb0c4b10b5cf",
+      "LED+delay 2"
     ],
     [
-      "48c6116a-43aa-4175-87a3-e1fe557a39ae",
-      "Input state LEDs"
+      "c1797cef-67e2-42a5-bb1f-57ab38a8b7a4",
+      "LED+delay 1"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "b7089fba-bc6a-46ad-9bde-e015f5059116",
+      "LED+delay 5"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "052e0f44-342e-4998-ad5e-af1675a68d72",
+      "LED+delay 6"
     ],
     [
-      "48c6116a-43aa-4175-87a3-e1fe557a39ae",
-      "Input state LEDs"
+      "8e0c8860-f393-451f-8a93-21c698d1cd0c",
+      "LED+delay 4"
     ],
     [
-      "8a63b049-8105-4a73-ad0c-deca4daf664d",
-      "LED array"
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
     ],
     [
-      "00d44ad5-f7b8-4a83-bee6-2abff7d309c5",
-      "LED drivers"
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
+    ],
+    [
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
+    ],
+    [
+      "ba0d458d-22f9-46cb-9e53-9922670bdc88",
+      "Chain OR_B"
+    ],
+    [
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
+    ],
+    [
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
+    ],
+    [
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
+    ],
+    [
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
+    ],
+    [
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
+    ],
+    [
+      "6ccdff34-ff3c-4d2f-a009-2f1563a52523",
+      "Chain XOR_A"
+    ],
+    [
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
+    ],
+    [
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
+    ],
+    [
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
+    ],
+    [
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
+    ],
+    [
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
+    ],
+    [
+      "07b9fc1d-c813-47f0-a2db-f77095991c35",
+      "Chain XOR_B"
+    ],
+    [
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
+    ],
+    [
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
+    ],
+    [
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
+    ],
+    [
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
+    ],
+    [
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
+    ],
+    [
+      "9851b5cc-c9e9-4b21-bb26-c183aee01860",
+      "Chain OR_A"
+    ],
+    [
+      "98ca2334-d08a-403b-806b-fe81481f8b58",
+      "Chain AND_A"
+    ],
+    [
+      "9328352c-0511-4c13-8247-c75f5b7cb47b",
+      "LED+delay 2"
+    ],
+    [
+      "ff461e06-e81a-46af-a793-ae19619bc03f",
+      "LED+delay 3"
+    ],
+    [
+      "75365768-cb2b-4ef5-b985-5945db4645ae",
+      "LED+delay 1"
+    ],
+    [
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
+    ],
+    [
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
+    ],
+    [
+      "67908a9f-5c71-487f-a997-0425fb1adacd",
+      "Chain AND_B"
+    ],
+    [
+      "9fc3380b-ec8f-426b-994d-3b498e6dff8c",
+      "LED+delay 4"
+    ],
+    [
+      "7f518bdc-e295-44a0-9c6a-3ef0531f5b3e",
+      "LED+delay 5"
+    ],
+    [
+      "068af0f4-48d2-4e9b-b73a-7fe52570ef17",
+      "Chain XOR_X"
+    ],
+    [
+      "46cead2d-fd58-49ab-ad5b-ab4188fc3740",
+      "Chain ALL_X"
+    ],
+    [
+      "e5f835a5-6d95-418c-a576-55514699c166",
+      "Chain ALL_Y1"
+    ],
+    [
+      "45363677-1ab1-48e2-9fa7-88c5be4f46b9",
+      "LED+delay 3"
+    ],
+    [
+      "96b2e339-ad52-4685-9ab1-cb0c4b10b5cf",
+      "LED+delay 2"
+    ],
+    [
+      "c1797cef-67e2-42a5-bb1f-57ab38a8b7a4",
+      "LED+delay 1"
+    ],
+    [
+      "b7089fba-bc6a-46ad-9bde-e015f5059116",
+      "LED+delay 5"
+    ],
+    [
+      "052e0f44-342e-4998-ad5e-af1675a68d72",
+      "LED+delay 6"
+    ],
+    [
+      "8e0c8860-f393-451f-8a93-21c698d1cd0c",
+      "LED+delay 4"
+    ],
+    [
+      "2e6826e1-123e-4a5e-8f1b-be26d8ecea4c",
+      "Chain ALL_Y2"
+    ],
+    [
+      "45363677-1ab1-48e2-9fa7-88c5be4f46b9",
+      "LED+delay 3"
+    ],
+    [
+      "96b2e339-ad52-4685-9ab1-cb0c4b10b5cf",
+      "LED+delay 2"
+    ],
+    [
+      "c1797cef-67e2-42a5-bb1f-57ab38a8b7a4",
+      "LED+delay 1"
+    ],
+    [
+      "b7089fba-bc6a-46ad-9bde-e015f5059116",
+      "LED+delay 5"
+    ],
+    [
+      "052e0f44-342e-4998-ad5e-af1675a68d72",
+      "LED+delay 6"
+    ],
+    [
+      "8e0c8860-f393-451f-8a93-21c698d1cd0c",
+      "LED+delay 4"
+    ],
+    [
+      "c1797cef-67e2-42a5-bb1f-57ab38a8b7a4",
+      "LED+delay 1"
+    ],
+    [
+      "96b2e339-ad52-4685-9ab1-cb0c4b10b5cf",
+      "LED+delay 2"
+    ],
+    [
+      "45363677-1ab1-48e2-9fa7-88c5be4f46b9",
+      "LED+delay 3"
+    ],
+    [
+      "8e0c8860-f393-451f-8a93-21c698d1cd0c",
+      "LED+delay 4"
+    ],
+    [
+      "b7089fba-bc6a-46ad-9bde-e015f5059116",
+      "LED+delay 5"
+    ],
+    [
+      "052e0f44-342e-4998-ad5e-af1675a68d72",
+      "LED+delay 6"
     ]
   ],
   "text_variables": {}

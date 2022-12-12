@@ -17,6 +17,10 @@
 
 # V2
 
+Idea: tie OUT of LED chain to inputs of actual gate, so that when toggling
+an input, the gate output doesn't start to update until the input has
+completely updated.
+
 
 ## V2 pcb
 
