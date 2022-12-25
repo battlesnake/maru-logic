@@ -757,62 +757,6 @@
       "Chain ALL_X"
     ],
     [
-      "e5f835a5-6d95-418c-a576-55514699c166",
-      "Chain ALL_Y1"
-    ],
-    [
-      "45363677-1ab1-48e2-9fa7-88c5be4f46b9",
-      "LED+delay 3"
-    ],
-    [
-      "96b2e339-ad52-4685-9ab1-cb0c4b10b5cf",
-      "LED+delay 2"
-    ],
-    [
-      "c1797cef-67e2-42a5-bb1f-57ab38a8b7a4",
-      "LED+delay 1"
-    ],
-    [
-      "b7089fba-bc6a-46ad-9bde-e015f5059116",
-      "LED+delay 5"
-    ],
-    [
-      "052e0f44-342e-4998-ad5e-af1675a68d72",
-      "LED+delay 6"
-    ],
-    [
-      "8e0c8860-f393-451f-8a93-21c698d1cd0c",
-      "LED+delay 4"
-    ],
-    [
-      "2e6826e1-123e-4a5e-8f1b-be26d8ecea4c",
-      "Chain ALL_Y2"
-    ],
-    [
-      "45363677-1ab1-48e2-9fa7-88c5be4f46b9",
-      "LED+delay 3"
-    ],
-    [
-      "96b2e339-ad52-4685-9ab1-cb0c4b10b5cf",
-      "LED+delay 2"
-    ],
-    [
-      "c1797cef-67e2-42a5-bb1f-57ab38a8b7a4",
-      "LED+delay 1"
-    ],
-    [
-      "b7089fba-bc6a-46ad-9bde-e015f5059116",
-      "LED+delay 5"
-    ],
-    [
-      "052e0f44-342e-4998-ad5e-af1675a68d72",
-      "LED+delay 6"
-    ],
-    [
-      "8e0c8860-f393-451f-8a93-21c698d1cd0c",
-      "LED+delay 4"
-    ],
-    [
       "c1797cef-67e2-42a5-bb1f-57ab38a8b7a4",
       "LED+delay 1"
     ],
